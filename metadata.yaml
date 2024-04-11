@@ -1,0 +1,33 @@
+_repo: Saved-by-love-b-A-story-of-London-streets_73224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Emma
+    aliases:
+    - Dixon, Emma
+    - Boultwood, Emma
+    birthdate: 1838
+    deathdate: 1909
+    gutenberg_agent_id: '8498'
+    url: http://www.gutenberg.org/2009/agents/8498
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
+description: ''
+gutenberg_issued: '2024-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73224'
+language: en
+pgterms:marc905: 20240318152203leslie
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Homeless girls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Saved by love : $b A story of London streets'
+url: http://www.gutenberg.org/ebooks/73224

@@ -1,5 +1,8 @@
 _repo: Saved-by-love-b-A-story-of-London-streets_73224
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Emma
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8498
     wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73224#Saved-by-love-b-A-story-of-London-streets
 gutenberg_issued: '2024-03-21'
 gutenberg_type: Text
 identifiers:
